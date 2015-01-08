@@ -10,7 +10,7 @@ import UIKit
 
 class Constants: NSObject {
     let kParseClassName = "Whiskey"
-    let kApplicationId  = "Add Application ID Here"
-    let kClientKey      = "Add Client ID Here"
+    let kApplicationId  = "Add Your App Id"
+    let kClientKey      = "Add Your Client Id"
    
 }
